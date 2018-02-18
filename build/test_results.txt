@@ -1,0 +1,16 @@
+[18.02.2018 18:46:18][Test 1]
+[Input:]
+test
+
+[Output:]
+Hello world!test
+[Status: passed]
+
+[18.02.2018 18:46:18][Test 2]
+[Input:]
+!
+
+[Output:]
+Hello world!!
+[Status: passed]
+
